@@ -55,7 +55,7 @@ k.scene("main-menu", () => {
     ]);
 
     k.add([
-        k.text("MADE BY JSLEGEND", { font: "nes", size: 8 }),
+        k.text("MADE BY JAY", { font: "nes", size: 8 }),
         k.z(2),
         k.pos(10, 215),
         k.color(COLORS.BLUE),
